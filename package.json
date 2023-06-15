@@ -1,0 +1,12 @@
+{
+  "name": "micro-services-sciron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:auth": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
